@@ -55,6 +55,10 @@ td{
   float: left;
 }
 
+.tables{
+  clear:both;
+}
+
 section{
   margin-bottom: 50px;
 }
